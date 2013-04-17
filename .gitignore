@@ -177,3 +177,8 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 vg00*
+.xcconfig
+.make
+.plist
+.sln
+.vcxproj*
